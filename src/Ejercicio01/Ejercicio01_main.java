@@ -19,6 +19,9 @@ public class Ejercicio01_main {
         //Se muestra el resultado del Objeto
         System.out.println("Los datos del libro cargado son los siguientes:");
         System.out.println(libro);
+        
+        //prueba Repo
+        
     }
 
     //Metodo para pedir datos al usuario, pero dentro del Main y no de la clase "Libro"
